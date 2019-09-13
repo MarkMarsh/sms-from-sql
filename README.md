@@ -1,0 +1,1 @@
+These files support the blog post https://kognitio.com/blog/sms-from-sql/ 
